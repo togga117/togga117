@@ -6,26 +6,17 @@
     <description>Recent content in Categories on Blog Didáctica aumentada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://togga117.github.io/togga117/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>syntax</title>
-      <link>https://togga117.github.io/togga117/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Articulos</title>
+      <link>https://togga117.github.io/togga117/categories/articulos/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://togga117.github.io/togga117/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://togga117.github.io/togga117/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://togga117.github.io/togga117/categories/themes/</guid>
+      <guid>https://togga117.github.io/togga117/categories/articulos/</guid>
       <description></description>
     </item>
     

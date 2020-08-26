@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog Didáctica aumentada</title>
-    <link>https://togga117.github.io/togga117/post/</link>
-    <description>Recent content in Posts on Blog Didáctica aumentada</description>
+    <title>Articulos on Blog Didáctica aumentada</title>
+    <link>https://togga117.github.io/togga117/categories/articulos/</link>
+    <description>Recent content in Articulos on Blog Didáctica aumentada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://togga117.github.io/togga117/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://togga117.github.io/togga117/categories/articulos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
